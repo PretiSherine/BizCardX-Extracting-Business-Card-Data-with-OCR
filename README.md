@@ -1,1 +1,3 @@
 # BizCardX-Extracting-Business-Card-Data-with-OCR
+
+BizCardX is a software application designed to extract data from business cards using Optical Character Recognition (OCR) technology. With BizCardX, users can simply scan or upload images of business cards, and the software automatically recognizes and extracts key information such as name, phone number, email address, and company name. This extracted data can then be organized, stored, or exported into various formats such as contact lists or CRM systems, streamlining the process of digitizing and managing business card information. Overall, BizCardX offers a convenient and efficient solution for quickly capturing and utilizing important contact details from physical business cards.
